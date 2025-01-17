@@ -1,1 +1,0 @@
-<p>This is new repositor in the LocalRepo</p>
